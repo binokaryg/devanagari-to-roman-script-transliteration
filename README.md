@@ -1,10 +1,12 @@
+Fork of [ritwikmishra/devanagari-to-roman-script-transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration)
+
 # devanagari-to-roman-script-transliteration
-Python scipt to convert &lt;text written in devnagri script> TO &lt;text in roman/english script>
+Python script to convert &lt;text written in Devanagari script> TO &lt;text in Roman/Latin script>
 
 ## USE
 Open terminal
 ```
-git clone https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration.git
+git clone https://github.com/binokaryg/devanagari-to-roman-script-transliteration.git
 cd devanagari-to-roman-script-transliteration
 python3 createDict.py
 python3 runTransliteration.py sample
